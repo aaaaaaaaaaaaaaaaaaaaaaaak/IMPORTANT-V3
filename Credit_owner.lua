@@ -1,4 +1,4 @@
 getgenv().CreditName = {
-   DisplayYoutube = "OMOHOTA"
+   DisplayYoutube = "OMOHOTA",
    SourceYoutube = "@OMOSCRIPTS"
 }
