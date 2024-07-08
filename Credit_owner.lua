@@ -1,4 +1,4 @@
 getgenv().CreditName = {
    DisplayYoutube = "OMOHOTA",
-   SourceYoutube = "@OMOSCRIPTS"
+   SourceYoutube = "@OMOSCRIPTS, DO NOT PUT THIS SCRIPT IN ANY LINK THAT CONNECT WITH ROBLOX EXECUTOR SEARCH SCRIPT. YOU'VE BEEN WARNED"
 }
