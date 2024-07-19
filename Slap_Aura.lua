@@ -20,7 +20,7 @@ gloveHits = {
     ["Snowball"] = game.ReplicatedStorage.GeneralHit,
     ["fish"] = game.ReplicatedStorage.GeneralHit,
     ["Killerfish"] = game.ReplicatedStorage.GeneralHit,
-    ["đŸ—¿"] = game.ReplicatedStorage.GeneralHit,
+    ["🗿"] = game.ReplicatedStorage.GeneralHit,
     ["Obby"] = game.ReplicatedStorage.GeneralHit,
     ["Voodoo"] = game.ReplicatedStorage.GeneralHit,
     ["Leash"] = game.ReplicatedStorage.GeneralHit,
@@ -89,6 +89,7 @@ gloveHits = {
     ["UFO"] = game.ReplicatedStorage.GeneralHit,
     ["el gato"] = game.ReplicatedStorage.GeneralHit,
     ["Siphon"] = game.ReplicatedStorage.GeneralHit,
+    ["Wrench"] = game.ReplicatedStorage.GeneralHit,
     -----------// Glove Hit Normal Or New Glove \\-----------
     ["ZZZZZZZ"] = game.ReplicatedStorage.ZZZZZZZHit,
     ["Brick"] = game.ReplicatedStorage.BrickHit,
