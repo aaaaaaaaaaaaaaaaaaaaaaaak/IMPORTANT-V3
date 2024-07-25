@@ -90,6 +90,8 @@ gloveHits = {
     ["el gato"] = game.ReplicatedStorage.GeneralHit,
     ["Siphon"] = game.ReplicatedStorage.GeneralHit,
     ["Wrench"] = game.ReplicatedStorage.GeneralHit,
+    ["Relude"] = game.ReplicatedStorage.GeneralHit,
+    ["Hunter"] = game.ReplicatedStorage.GeneralHit,  
     -----------// Glove Hit Normal Or New Glove \\-----------
     ["ZZZZZZZ"] = game.ReplicatedStorage.ZZZZZZZHit,
     ["Brick"] = game.ReplicatedStorage.BrickHit,
