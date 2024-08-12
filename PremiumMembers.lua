@@ -1,4 +1,4 @@
-local allowedPlayers = {
+allowedPlayers = {
     "hotomoma",
     "ikdkd130",
     "ikdkd128",
