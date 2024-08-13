@@ -14,5 +14,6 @@ allowedPlayers = {
     "fiufid8e8eueuejeueu",
     "banana689001",
     "anormalpersonorisit",
-    "robbobertsonthethird"
+    "robbobertsonthethird",
+    "jshshshshsjsj6"
 }
