@@ -16,5 +16,6 @@ allowedPlayers = {
     "anormalpersonorisit",
     "robbobertsonthethird",
     "jshshshshsjsj6",
-    "pyropro2000l"
+    "pyropro2000l",
+    "ialwayscomebackcleox"
 }
