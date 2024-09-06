@@ -21,5 +21,5 @@ allowedPlayers = {
     "bruhboy19089",
     "obadas_alt1",
     "sadlife_ofcourse",
-    "bruhboy19099"
+    "Zqoqo3"
 }
